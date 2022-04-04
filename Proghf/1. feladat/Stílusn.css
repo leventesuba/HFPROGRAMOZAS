@@ -1,0 +1,14 @@
+    p {
+        padding: 4mm;
+        border: 2px blue solid;
+        text-align: justify;
+    }
+    
+    span {
+        padding: 5px;
+        margin: 10px;
+        border-radius: 10px;
+        background-color: orange;
+        float: left;
+        position: relative;
+    }
